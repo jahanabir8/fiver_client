@@ -1,0 +1,44 @@
+/*  */
+.button__mod .button__frox{
+    height: 100vh;
+}
+
+.button__mod button i {
+    font-size: 50px;
+}
+
+.button__mod button i svg.svg-inline--fa.fa-square-facebook {
+    font-size: 40px;
+}
+
+.button__mod button.model__button {
+    font-size: 150px;
+    border: none;
+    outline: none;
+    background: transparent;
+    align-items: center;
+    justify-content: center;
+}
+
+.button__mod button.model__button:first-child{
+    color: #1877F2;
+}
+
+.button__mod button.model__button:nth-child(2){
+    color: rgb(0, 0, 130);
+}
+/*  */
+
+
+/* dihan */
+.dihan{
+background-color: rgb(189, 188, 188);
+}
+.mod__box{
+    padding: 40;
+    margin-bottom: 20px;
+}
+.mod__box img {
+    border-radius: 10px;
+}
+/* dihan */
